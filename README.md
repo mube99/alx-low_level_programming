@@ -1,2 +1,1 @@
-# alx-low_level_programming
-this is alx software project
+Directory of 0x00-hello_world
